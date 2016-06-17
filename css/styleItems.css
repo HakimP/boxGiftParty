@@ -1,0 +1,59 @@
+body {
+	text-align: center;
+}
+
+img {
+	background-color: black;
+	width: 80%;
+	height: 80%;
+}
+.contenedor {
+	width: 40%;
+	padding: 5%;
+	border-color: black;
+	background-color: gray;
+	display: inline-block;
+}
+
+.item2 {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	background-color: black;
+	border: 20%;
+	border-radius: 12px;
+}
+
+.barraInformativa {
+	background-color: green;
+	width: 60%;
+	display: inline-block;
+}
+
+.textoTransparente {
+	background-color: transparent;
+	border: none;
+	text-align: center;
+}
+
+.inputText {
+	float: left;
+	color: red;
+	margin-top: 3%;
+	margin-left: 10%;
+	width: 75%;
+	border-radius: 5%;
+}
+
+.semi-circulo {
+     width: 100px; 
+     height: 50px; 
+     border: 2px solid #555; 
+     background: #5cb85c;
+     -moz-border-radius: 100px 100px 0 0;
+     -webkit-border-radius: 100px 100px 0 0;
+     border-radius: 100px 100px 0 0;
+     float: left;
+     margin: auto;
+
+}
